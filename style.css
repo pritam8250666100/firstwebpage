@@ -1,0 +1,324 @@
+/* *{
+    box-sizing: border-box;
+} */
+body{
+    margin:0px;
+}
+.heading{
+    background-image:url(https://digitalsynopsis.com/wp-content/uploads/2014/06/supercar-wallpapers-bugatti-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    width: 100%;
+    height: 800px;
+    margin-top: -33px;
+}
+.heading2{
+    background-image:url(https://i.pinimg.com/originals/f0/fb/2a/f0fb2a6146f3e6a90b0b9f38581c646f.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    width: 100%;
+    height: 800px;
+    /* margin-top: -10px; */
+}
+
+.headinga{
+    background-image:url(https://wallpaperaccess.com/full/2056565.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    width: 100%;
+    height: 800px;
+    /* margin-top: -10px; */
+}
+
+.headingc{
+    background-image:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Vd3bj2jPe/videoblocks-young-woman-working-at-call-centre-call-center-operator-talking-headset-with-client-smiling-woman-talking-with-customer-at-workplace_s1apjazxb_thumbnail-full14.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    width: 100%;
+    height: 700px;
+    /* margin-top: -10px; */
+}
+
+
+.heading1{
+    padding: 5%;
+}
+
+.headingc1{
+    align-items: center;
+    height: 400px;
+    width: 46%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 80px;
+    /* border: 1px solid red; */
+    border-radius: 5%;
+    background-color: rgba(158, 158, 157, 0.5);
+    padding: 5%;
+}
+
+.heading3{
+    padding: 5%;
+}
+
+.headinga1{
+    padding: 5%;
+}
+
+.heading3 h2{
+    font-family: 'comic san';
+    font-size: 60px;
+    font-weight: 1500;
+    color: #c1e3da;
+    text-align: center;
+    /* text-align: center; */
+}
+
+.headingc1 h2{
+    font-family: 'comic san';
+    font-size: 40px;
+    font-weight: 1500;
+    color: white;
+    text-align: left;
+    /* text-align: center; */
+}
+
+.headingc1 h1{
+    font-family: 'comic san';
+    font-size: 65px;
+    font-weight: 1500;
+    color: white;
+    text-align: left;
+    /* text-align: center; */
+}
+
+.headingc1 p{
+    font-family: 'comic san';
+    font-size: 30px;
+    font-weight: 1500;
+    color: white;
+    text-align: left;
+    /* text-align: center; */
+}
+
+.heading1 h2{
+    font-family: 'comic san';
+    font-size: 60px;
+    font-weight: 1500;
+    color: rgb(255, 255, 255);
+    /* text-align: center; */
+}
+
+.headinga1 h2{
+    font-family: 'comic san';
+    font-size: 70px;
+    font-weight: 1500;
+    color: rgb(255, 255, 255);
+    /* text-align: center; */
+}
+
+.naviga{
+    overflow: hidden;
+    background-color: #030303;
+    height: 70px;
+}
+
+.a2 img{
+    margin-left: 20px;
+    float: left;
+    margin-top: 6px;
+}
+
+.a2 h4{
+    color: grey;
+    width: 10%;
+    float: left;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    font-size: 45px;
+}
+.a1{
+    font-size: 20px;
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 25.8px 24px;
+    text-decoration: none;
+}
+.naviga a:hover{
+    background-color:gray;
+    color: black;
+} 
+
+.column{
+    float: left;
+    padding: 10px;
+    text-align: center;
+}
+.column.s input {
+    width: 25%;
+    text-decoration: none;
+}
+.column.m{
+    width: 50%;
+}
+.side{
+    align-items: center;
+    height: 400px;
+    width: 45%;
+    float: left;
+    margin-left: 3%;
+}
+.side a img{
+    align-items: center;
+    padding-left: 3px;
+}
+
+.c1{
+    width: 49%;
+    height:400px;
+    float: left;
+}
+
+
+.c2{
+    width: 49%;
+    height: 400px;
+    float: right;
+}
+
+.c2 h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.c2 p{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.sidea{
+    align-items: center;
+    height: 400px;
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 10px;
+    /* border: 1px solid red; */
+    background-color: rgba(168, 167, 167, 0.7);
+}
+
+.sidea1{
+    align-items: center;
+    height: 195px;
+    width: 24%;
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 10px;
+    /* border: 1px solid red; */
+
+    background-color: rgba(168, 167, 167, 0.7);
+}
+
+.sidecc{
+    align-items: center;
+    height: 195px;
+    width: 32.4%;
+    float: left;
+    margin-left: 0.7%;
+    margin-top: 10px;
+    /* border: 1px solid red; */
+    background-color: rgba(168, 167, 167, 0.5);
+}
+
+.sidea2{
+    align-items: center;
+    height: 195px;
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 10px;
+    /* border: 1px solid red; */
+    background-color: rgba(168, 167, 167, 0.7);
+}
+
+.sidecc1{
+    text-align: center;
+    align-items: center;
+    height: 195px;
+    width: 48.5%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 10px;
+    /* border: 1px solid red; */
+    background-color: rgba(168, 167, 167, 0.5);
+}
+
+
+
+.sidea h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    /* font-size: 40px; */
+    margin-top:25%;
+}
+
+.sidea h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px;
+    margin-top:0px;
+}
+
+.sidea1 p{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    /* margin-top:0px; */
+}
+
+.below{
+    background-image:url(https://wallpapercave.com/wp/wp1865393.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    width: 100%;
+    height: 420px;
+    /* margin-top: -10px; */
+}
+
+.below1{
+    background-image:url(https://wallpaperaccess.com/full/396534.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px;
+    width: 100%;
+    height: 420px;
+    /* margin-top: -10px; */
+}
+
+.sidea2 h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    margin-top:0px;
+}
+
+.sidea2 address{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    /* margin-top:0px; */
+}
